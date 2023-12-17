@@ -1,0 +1,10 @@
+.mask{
+    mask-image: url(../../assets/imgs/mask-banner.png);
+    mask-repeat: no-repeat;
+    mask-size: inherit;
+}
+
+.mask img{
+    width: inherit;
+    height: 100%;
+}
